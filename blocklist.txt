@@ -22942,7 +22942,6 @@ vkcdnservice.appspot.com^
 ||lk.vectoranalytics.ru^
 ||track.ilonofficial.com^
 ||track.saygames.io^
-||exponea.com^
 ||cloisteredcord.com^
 ||stats.datawrapper.de^
 ||bigdata.riamedia.com.ua^
